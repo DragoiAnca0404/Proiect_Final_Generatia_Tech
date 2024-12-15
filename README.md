@@ -47,6 +47,8 @@ Acesta expune un API pentru crearea comenzilor:
 - **`POST /api/orders`**: Permite crearea unei comenzi noi, cu informațiile clientului și totalul comenzii.
 
 - ![image](https://github.com/user-attachments/assets/1849e508-1929-4f50-9d0e-9b6751373265)
+- ![image](https://github.com/user-attachments/assets/3c7d4185-52e8-40b4-b593-3fcdbc169c2d)
+
 
 
 
