@@ -1,0 +1,1 @@
+# Proiect_Final_Generatia_Tech
