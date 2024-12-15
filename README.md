@@ -48,6 +48,8 @@ Acesta expune un API pentru crearea comenzilor:
 
 - ![image](https://github.com/user-attachments/assets/1849e508-1929-4f50-9d0e-9b6751373265)
 - ![image](https://github.com/user-attachments/assets/3c7d4185-52e8-40b4-b593-3fcdbc169c2d)
+- ![image](https://github.com/user-attachments/assets/5bce6239-65d1-4156-b357-d367951c815a)
+
 
 
 
